@@ -1,1 +1,1 @@
-# Number-plate-Detection-and-verifiation
+# Number-plate-Detection-and-verification
